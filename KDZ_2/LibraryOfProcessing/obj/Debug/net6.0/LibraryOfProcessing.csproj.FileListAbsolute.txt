@@ -1,0 +1,12 @@
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/bin/Debug/net6.0/LibraryOfProcessing.deps.json
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/bin/Debug/net6.0/LibraryOfProcessing.dll
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/bin/Debug/net6.0/LibraryOfProcessing.pdb
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.csproj.AssemblyReference.cache
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.AssemblyInfoInputs.cache
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.AssemblyInfo.cs
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.dll
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/refint/LibraryOfProcessing.dll
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/LibraryOfProcessing.pdb
+/Users/macos/Projects/KDZ_2/LibraryOfProcessing/obj/Debug/net6.0/ref/LibraryOfProcessing.dll

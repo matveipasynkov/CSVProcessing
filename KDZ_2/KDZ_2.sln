@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDZ_Program", "KDZ_Program\KDZ_Program.csproj", "{1CF9DE36-1EF2-4585-8034-178D06237EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryOfProcessing", "LibraryOfProcessing\LibraryOfProcessing.csproj", "{64097520-A51E-402C-8D90-756BA05195F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF9DE36-1EF2-4585-8034-178D06237EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF9DE36-1EF2-4585-8034-178D06237EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF9DE36-1EF2-4585-8034-178D06237EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF9DE36-1EF2-4585-8034-178D06237EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64097520-A51E-402C-8D90-756BA05195F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64097520-A51E-402C-8D90-756BA05195F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64097520-A51E-402C-8D90-756BA05195F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64097520-A51E-402C-8D90-756BA05195F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F0A698-2A3C-4755-B079-189CAF11EB8A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KDZ_Program/1.0.0": {
+        "dependencies": {
+          "LibraryOfProcessing": "1.0.0"
+        },
+        "runtime": {
+          "KDZ_Program.dll": {}
+        }
+      },
+      "LibraryOfProcessing/1.0.0": {
+        "runtime": {
+          "LibraryOfProcessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KDZ_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryOfProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
